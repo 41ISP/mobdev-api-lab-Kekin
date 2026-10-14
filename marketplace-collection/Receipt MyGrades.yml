@@ -1,6 +1,6 @@
 info:
   name: Receipt MyGrades
- type: http
+  type: http
   seq: 10
 
 http:
